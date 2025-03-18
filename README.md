@@ -1,4 +1,4 @@
-# Teste de Portfólio de Ingrid Souza
+# Teste de Portfólio Ingrid Souza
 
 Bem-vindo ao meu portfólio! Este repositório contém alguns dos meus projetos mais recentes, que demonstram minhas habilidades e conhecimentos em desenvolvimento web. O portfólio é desenvolvido com HTML, CSS e JavaScript, e serve como uma vitrine para minha jornada como desenvolvedora Full Stack.
 
@@ -21,4 +21,4 @@ Este portfólio tem como objetivo apresentar minhas habilidades, projetos e expe
 1. Clone o repositório para o seu computador:
 
    bash
-  file:///C:/Users/ingri/Desktop/All/Projetos/Portif%C3%B3lio%20Souza/index.html#about
+   https://github.com/Souz4Ingrid/TestePortfolio/blob/main/README.md
